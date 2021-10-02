@@ -1,0 +1,8 @@
+README.md
+setup.py
+JDStudio/__init__.py
+JDStudio.egg-info/PKG-INFO
+JDStudio.egg-info/SOURCES.txt
+JDStudio.egg-info/dependency_links.txt
+JDStudio.egg-info/requires.txt
+JDStudio.egg-info/top_level.txt
